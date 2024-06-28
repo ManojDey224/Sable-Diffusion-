@@ -1,1 +1,1 @@
-# Sable-Diffusion-
+# Stable-Diffusion-
