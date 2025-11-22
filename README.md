@@ -25,9 +25,7 @@ git clone https://github.com/manojdey224/sable-diffusion-.git
 cd sable-diffusion-
 Install dependencies: You can install the necessary packages using pip. The core requirements are:
 
-Bash
-
-pip install diffusers transformers accelerate safetensors invisible_watermark pycuda rich torch
+Bash pip install diffusers transformers accelerate safetensors invisible_watermark pycuda rich torch
 📂 Usage
 This repository contains different scripts for various use cases:
 
@@ -40,9 +38,8 @@ Output: Displays images using matplotlib.
 
 Run:
 
-Bash
+Bash: python stable_diffusion1.py
 
-python stable_diffusion1.py
 2. SDXL High-Quality Generation (stable_diffussion (1).py)
 A script dedicated to using the powerful SDXL 1.0 model. It generates an image based on a specific prompt and saves it to disk.
 
@@ -52,9 +49,8 @@ Scheduler: DPM Solver (for faster, higher-quality results).
 
 Run:
 
-Bash
+Bash python "stable_diffussion (1).py"
 
-python "stable_diffussion (1).py"
 3. Interactive Notebooks
 There are two Jupyter Notebooks available for interactive experimentation:
 
