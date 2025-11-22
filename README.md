@@ -19,9 +19,8 @@ To run the scripts in this repository, you will need Python installed along with
 
 Clone the repository:
 
-Bash
+Bash git clone https://github.com/manojdey224/sable-diffusion-.git
 
-git clone https://github.com/manojdey224/sable-diffusion-.git
 cd sable-diffusion-
 Install dependencies: You can install the necessary packages using pip. The core requirements are:
 
